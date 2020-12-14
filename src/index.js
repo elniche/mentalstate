@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Mentalstate from './Mentalstate';
 import './mental.css';
-import kali from './kali.jpg';
+//import kali from './kali.jpg';
 import Button from 'react-bootstrap/Button';
 //import './index.css';
 //import App from './App';

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 //import { BrowserRouter as Router , Switch, Route, Link } from "react-router-dom";
 import './mental.css';
-import Kali from './kali.jpg';
+//import Kali from './kali.jpg';
 //import Select from 'react-select';
 
 
