@@ -2,10 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Mentalstate from './Mentalstate';
 import './mental.css';
-//import kali from './kali.jpg';
+import Accordion from './Accordion';
+import Intro from './Intro';
 import Button from 'react-bootstrap/Button';
+/// BORA EL DEMO.JS
 //import './index.css';
 //import App from './App';
+//import kali from './kali.jpg';
 import * as serviceWorker from './serviceWorker';
 
 
